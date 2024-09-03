@@ -1,5 +1,7 @@
 body{
     color:rgb(213, 79, 247);
     background: rgb(169, 251, 206);
-    
 }
+    heade{
+        border:solid 3px purple;
+    }

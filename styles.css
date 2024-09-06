@@ -1,7 +1,11 @@
 body{
-    color:rgb(74, 238, 88);
+    color:rgb(247, 249, 247);
     background: rgba(111, 2, 76, 0.992);
+    margin: 3;
 }
     heade{
         border-bottom:solid 3px purple;
+        margin: 30;
+        font-size: 32px;
+        color: rgb(53, 255, 100);
     }

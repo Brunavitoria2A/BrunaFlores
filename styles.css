@@ -3,7 +3,7 @@ body{
     background: rgba(111, 2, 76, 0.992);
     margin: 3;
 }
-    heade{
+    header{
         border-bottom:solid 3px purple;
         margin: 30;
         font-size: 32px;

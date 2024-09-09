@@ -2,6 +2,7 @@ body{
     color:rgb(79 87 12);
     background: rgb(50 217 96 / 62%);
     margin: 3;
+    font-family: "Fascinate Inline", system-ui;
 }
     header{
         border-bottom:solid 5px rgb(106, 77, 22);

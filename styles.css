@@ -27,3 +27,7 @@ h1{
 p{
     font-size: 20px;
 }
+section{
+    padding-bottom: 20;
+    padding-top: 40;
+}
